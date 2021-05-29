@@ -1,1 +1,3 @@
-# Correcting-Description
+# Grammar corrector
+
+A statistical grammar corrector.
